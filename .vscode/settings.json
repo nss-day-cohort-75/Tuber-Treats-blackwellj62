@@ -4,5 +4,10 @@
     "activityBar.background": "#232D46",
     "titleBar.activeBackground": "#303F61",
     "titleBar.activeForeground": "#F9FAFC"
-  }
+  },
+  "cSpell.ignoreWords": [
+    "Estill",
+    "MARTON",
+    "Yammin"
+  ]
 }
